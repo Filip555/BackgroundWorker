@@ -1,0 +1,9 @@
+c:\users\filip555\documents\visual studio 2015\Projects\BackgroudWorker\BackgroudWorker\bin\Debug\BackgroudWorker.exe
+c:\users\filip555\documents\visual studio 2015\Projects\BackgroudWorker\BackgroudWorker\bin\Debug\BackgroudWorker.pdb
+c:\users\filip555\documents\visual studio 2015\Projects\BackgroudWorker\BackgroudWorker\obj\Debug\BackgroudWorker.csprojResolveAssemblyReference.cache
+c:\users\filip555\documents\visual studio 2015\Projects\BackgroudWorker\BackgroudWorker\obj\Debug\BackgroudWorker.Form1.resources
+c:\users\filip555\documents\visual studio 2015\Projects\BackgroudWorker\BackgroudWorker\obj\Debug\BackgroudWorker.Properties.Resources.resources
+c:\users\filip555\documents\visual studio 2015\Projects\BackgroudWorker\BackgroudWorker\obj\Debug\BackgroudWorker.SomeForm.resources
+c:\users\filip555\documents\visual studio 2015\Projects\BackgroudWorker\BackgroudWorker\obj\Debug\BackgroudWorker.csproj.GenerateResource.Cache
+c:\users\filip555\documents\visual studio 2015\Projects\BackgroudWorker\BackgroudWorker\obj\Debug\BackgroudWorker.exe
+c:\users\filip555\documents\visual studio 2015\Projects\BackgroudWorker\BackgroudWorker\obj\Debug\BackgroudWorker.pdb
